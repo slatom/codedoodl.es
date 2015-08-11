@@ -1,0 +1,19 @@
+{
+    "name" : "unstable clock",
+    "author" : {
+        "name" : "Tomasz Slawnikowski",
+        "github" : "slatom",
+        "website" : "http://freelance-html-developer.com/"
+    },
+    "description" : "A simple 3d, particle based clock visualization.",
+    "tags" : [ "webGL", "particles", "threejs" ],
+    "interaction" : {
+        "mouse" : true,
+        "keyboard" : true
+        "touch" : true
+    },
+    "instructions" : "move your mouse",
+    "colour_scheme" : "dark",
+    "mobile_friendly" : true,
+    "slug" : "slatom/unstable-clock"
+}
